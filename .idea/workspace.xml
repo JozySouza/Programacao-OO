@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21a448c2-99e5-4609-b06c-6688dc096904" name="Changes" comment="Herança">
-      <change afterPath="$PROJECT_DIR$/src/Heranca_Parte2/Faxineiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heranca_Parte2/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heranca_Parte2/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heranca_Parte2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heranca_Parte2/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heranca_Parte3/ClasseFilha1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heranca_Parte3/ClasseFilha2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heranca_Parte3/ClasseMae.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heranca_Parte3/Main.java" afterDir="false" />
+    <list default="true" id="21a448c2-99e5-4609-b06c-6688dc096904" name="Changes" comment=" Update Herança">
+      <change afterPath="$PROJECT_DIR$/src/Associacao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Associacao/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Associacao/Cupom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Associacao/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Associacao/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Associacao/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658442134057</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" Update Herança">
+      <created>1658444995043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658444995043</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +135,7 @@
     <MESSAGE value="commit inicial" />
     <MESSAGE value="Update classe Main" />
     <MESSAGE value="Herança" />
-    <option name="LAST_COMMIT_MESSAGE" value="Herança" />
+    <MESSAGE value=" Update Herança" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Update Herança" />
   </component>
 </project>
