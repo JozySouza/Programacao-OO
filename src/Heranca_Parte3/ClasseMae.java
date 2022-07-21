@@ -1,0 +1,12 @@
+package Heranca_Parte3;
+
+public class ClasseMae {
+
+    void metodo1(){
+        System.out.println("Método 1 da classe Mae");
+    }
+
+    void metodo2(){
+        System.out.println("Método 2 da classe Mae");
+    }
+}
